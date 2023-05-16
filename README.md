@@ -13,11 +13,11 @@ Modified Dashboard:
 
 Conclusion:
 
-Here we can see that ADR is constant among all weeks 
+Here we can see that ADR is constant among all weeks .
 
 And also ADR for Weekends and weekdays is almost same which means the hotels are having fixed pricing.
 
-So they can adapt dynamic pricing strategies to increase the revenue 
+So they can adapt dynamic pricing strategies to increase the revenue .
 
 
 
